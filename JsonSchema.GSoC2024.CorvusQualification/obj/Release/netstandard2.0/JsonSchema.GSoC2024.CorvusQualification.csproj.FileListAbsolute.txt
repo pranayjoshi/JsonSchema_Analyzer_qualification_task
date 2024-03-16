@@ -1,0 +1,5 @@
+/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/obj/Release/netstandard2.0/JsonSchema.GSoC2024.CorvusQualification.csproj.AssemblyReference.cache
+/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/obj/Release/netstandard2.0/JsonSchema.GSoC2024.CorvusQualification.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/obj/Release/netstandard2.0/JsonSchema.GSoC2024.CorvusQualification.AssemblyInfoInputs.cache
+/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/obj/Release/netstandard2.0/JsonSchema.GSoC2024.CorvusQualification.AssemblyInfo.cs
+/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/obj/Release/netstandard2.0/JsonSchema.GSoC2024.CorvusQualification.csproj.CoreCompileInputs.cache
