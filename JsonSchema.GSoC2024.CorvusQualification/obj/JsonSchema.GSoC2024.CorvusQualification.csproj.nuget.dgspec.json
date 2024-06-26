@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj": {}
+    "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj": {}
   },
   "projects": {
-    "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj": {
+    "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj",
+        "projectUniqueName": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj",
         "projectName": "JsonSchema.GSoC2024.CorvusQualification",
-        "projectPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj",
+        "projectPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj",
         "packagesPath": "/Users/pranayjoshi/.nuget/packages/",
-        "outputPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification/obj/",
+        "outputPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.CorvusQualification/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pranayjoshi/.nuget/NuGet/NuGet.Config"
@@ -20,15 +20,14 @@
           "netstandard2.0"
         ],
         "sources": {
-          "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/local": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj": {
-                "projectPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj"
+              "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj": {
+                "projectPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj"
               }
             }
           }
@@ -70,14 +69,14 @@
         }
       }
     },
-    "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj": {
+    "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj",
+        "projectUniqueName": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj",
         "projectName": "JsonSchema.GSoC2024.ExistingLibrary",
-        "projectPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj",
+        "projectPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.ExistingLibrary/JsonSchema.GSoC2024.ExistingLibrary.csproj",
         "packagesPath": "/Users/pranayjoshi/.nuget/packages/",
-        "outputPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.ExistingLibrary/obj/",
+        "outputPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.ExistingLibrary/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
@@ -87,7 +86,6 @@
           "netstandard2.0"
         ],
         "sources": {
-          "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/local": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

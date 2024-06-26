@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj": {}
+    "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj": {}
   },
   "projects": {
-    "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj": {
+    "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj",
+        "projectUniqueName": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj",
         "projectName": "JsonSchema.GSoC2024.UserCode",
-        "projectPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj",
+        "projectPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.UserCode/JsonSchema.GSoC2024.UserCode.csproj",
         "packagesPath": "/Users/pranayjoshi/.nuget/packages/",
-        "outputPath": "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.UserCode/obj/",
+        "outputPath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.UserCode/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/pranayjoshi/.nuget/NuGet/NuGet.Config"
@@ -20,7 +20,6 @@
           "net8.0"
         ],
         "sources": {
-          "/Users/pranayjoshi/Downloads/JsonSchema.GSoC2024.CorvusQualification/local": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
