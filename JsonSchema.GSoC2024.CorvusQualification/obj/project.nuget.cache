@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZSpi3042l2M7CyxuQTZGncuyLr1XHmVbaZcmMHEKvGAT2rci41sG5UtRcJVpz5hWFZK//vZ2QM0XvmrPlrCBbQ==",
+  "dgSpecHash": "gtwHanjJcxpQPnGuietmsRYDWFmvYVsSXg4Od/Lbk77QGVOnrUgWyZel+X7ssOmf9dRfP62iVG/ERWq8szY84w==",
   "success": true,
   "projectFilePath": "/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.CorvusQualification/JsonSchema.GSoC2024.CorvusQualification.csproj",
-  "expectedPackageFiles": [
-    "/Users/pranayjoshi/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/pranayjoshi/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/pranayjoshi/.nuget/packages/jsonschema.gsoc2024.existinglibrary/1.0.0/jsonschema.gsoc2024.existinglibrary.1.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
