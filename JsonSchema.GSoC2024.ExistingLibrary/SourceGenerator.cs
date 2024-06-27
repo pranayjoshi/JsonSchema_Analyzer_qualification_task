@@ -1,6 +1,5 @@
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
-using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.CodeAnalysis.Text;
 using System.Text;
 
@@ -11,19 +10,17 @@ namespace JsonSchema.GSoC2024.ExistingLibrary
     {
         public void Initialize(IncrementalGeneratorInitializationContext context)
         {
-            var syntaxProvider = context.SyntaxProvider;
-
+            // Register the source output without filtering specific syntax nodes
             context.RegisterSourceOutput(
-                context.SyntaxProvider.CreateSyntaxProvider(
-                    static (syntaxNode, _) => syntaxNode is ClassDeclarationSyntax,
-                    static (context, cancellationToken) => (ISymbol)context.SemanticModel.GetDeclaredSymbol(context.Node, cancellationToken)
-                ),
-                (spc, source) =>
-                {
-                    string sourceCode = GenerateSourceCode();
-                    spc.AddSource("GeneratedSource.cs", SourceText.From(sourceCode, Encoding.UTF8));
-                }
+                context.CompilationProvider,
+                (spc, compilation) => Execute(spc, compilation)
             );
+        }
+
+        private static void Execute(SourceProductionContext context, Compilation compilation)
+        {
+            string sourceCode = GenerateSourceCode();
+            context.AddSource("GeneratedSource.cs", SourceText.From(sourceCode, Encoding.UTF8));
         }
 
         private static string GenerateSourceCode()
@@ -34,7 +31,7 @@ namespace JsonSchema.GSoC2024.ExistingLibrary
                 namespace GeneratedNamespace
                 {
                     [AttributeUsage(AttributeTargets.All, Inherited = false, AllowMultiple = true)]
-                    sealed class GeneratedAttribute : Attribute
+                    public sealed class GeneratedAttribute : Attribute
                     {
                         public string JsonPath { get; }
                         public string Qualification { get; }
