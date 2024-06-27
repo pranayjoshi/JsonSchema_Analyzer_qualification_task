@@ -1,3 +1,4 @@
-using JsonSchema.GSoC2024.ExistingLibrary;
+using System;
+using GeneratedNamespace;
 
-[assembly: GeneratedAttribute("path/to/schema.json", "JsonSchema.GSoC2024.CorvusQualification")]
+[assembly: GeneratedAttribute("path/to/schema.json", "TestQualification")]

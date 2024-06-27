@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+using System;
+
+namespace TestNamespace
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            GeneratedClass generatedClass = new GeneratedClass();
+            generatedClass.PrintMessage();
+        }
+    }
+}
