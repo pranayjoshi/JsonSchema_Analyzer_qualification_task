@@ -44,6 +44,10 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "dependencies": {
+            "Corvus.Json.CodeGeneration.6": {
+              "target": "Package",
+              "version": "[3.0.27, )"
+            },
             "Microsoft.CodeAnalysis.Analyzers": {
               "suppressParent": "All",
               "target": "Package",
@@ -52,7 +56,11 @@
             "Microsoft.CodeAnalysis.CSharp.Workspaces": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[4.3.1, )"
+              "version": "[4.9.2, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[4.9.2, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",

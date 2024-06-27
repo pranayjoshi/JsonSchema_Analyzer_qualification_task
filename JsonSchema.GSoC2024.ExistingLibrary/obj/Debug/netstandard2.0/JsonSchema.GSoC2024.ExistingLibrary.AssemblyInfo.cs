@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pranay Joshi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ce73116cb14fd985b83488eb26d534cf0f7fb37")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50f1f6e2bc98e9df688e525f78731c734b927865")]
 [assembly: System.Reflection.AssemblyProductAttribute("JsonSchema.GSoC2024.ExistingLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JsonSchema.GSoC2024.ExistingLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
