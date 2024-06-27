@@ -1,0 +1,6 @@
+/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.AssemblyAttribute/obj/Debug/net8.0/JsonSchema.GSoC2024.AssemblyAttribute.csproj.AssemblyReference.cache
+/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.AssemblyAttribute/obj/Debug/net8.0/JsonSchema.GSoC2024.AssemblyAttribute.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.AssemblyAttribute/obj/Debug/net8.0/JsonSchema.GSoC2024.AssemblyAttribute.AssemblyInfoInputs.cache
+/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.AssemblyAttribute/obj/Debug/net8.0/JsonSchema.GSoC2024.AssemblyAttribute.AssemblyInfo.cs
+/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.AssemblyAttribute/obj/Debug/net8.0/JsonSchema.GSoC2024.AssemblyAttribute.csproj.CoreCompileInputs.cache
+/Users/pranayjoshi/Desktop/projects/CSharp/JsonSchema_Analyzer_qualification_task/JsonSchema.GSoC2024.AssemblyAttribute/obj/Debug/net8.0/JsonSchema.GSoC2024.AssemblyAttribute.sourcelink.json

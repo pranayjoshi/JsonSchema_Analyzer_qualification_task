@@ -5,15 +5,10 @@
     <PackageId>JsonSchema.GSoC2024.ExistingLibrary</PackageId>
     <Version>1.0.0</Version>
     <Authors>Pranay Joshi</Authors>
+    <LangVersion>latest</LangVersion>
   </PropertyGroup>
 
   <PropertyGroup>
-    <IsPackable>true</IsPackable>
-    <IncludeBuildOutput>false</IncludeBuildOutput>
-    <LangVersion>latest</LangVersion>
-    <SuppressDependenciesWhenPacking>true</SuppressDependenciesWhenPacking>
-    <DevelopmentDependency>true</DevelopmentDependency>
-    <IsRoslynComponent>true</IsRoslynComponent>
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
   </PropertyGroup>
 
