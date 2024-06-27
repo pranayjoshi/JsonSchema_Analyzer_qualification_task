@@ -10,7 +10,6 @@ namespace JsonSchema.GSoC2024.ExistingLibrary
     {
         public void Initialize(IncrementalGeneratorInitializationContext context)
         {
-            // Register the source output without filtering specific syntax nodes
             context.RegisterSourceOutput(
                 context.CompilationProvider,
                 (spc, compilation) => Execute(spc, compilation)
